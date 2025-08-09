@@ -1,6 +1,15 @@
 # HTML-CSS_Template_1
 HTML-CSS Design Number 1
 
+---
+
+## 🌐 Live Demo
+
+You can check out the live version here:  
+[**View Project**](https://ahmedyasser006200.github.io/HTML-CSS_Template_1/)
+
+---
+
 This is a **practice project** I built while learning HTML and CSS from the amazing [Elzero Web School](https://www.youtube.com/@ElzeroWebSchool).  
 The project is based on the **Template One** playlist, where I followed the instructor step-by-step and added my own touch as I progressed.
 
