@@ -9,9 +9,9 @@
 /* End Variables */
 /* Start Global Rules */
 * {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 html {
@@ -177,7 +177,7 @@ body {
 .landing {
   background-image: url(../images/pexels-pixabay-355747.jpg);
   background-size: cover;
-   height: calc(100vh - 64px);
+  height: calc(100vh - 64px);
   position: relative;
 }
 
@@ -474,7 +474,7 @@ body {
   color: white;
   text-align: center;
   padding: 30px 10px;
-   font-size: 19px;
+  font-size: 19px;
 }
 
 .footer span {
